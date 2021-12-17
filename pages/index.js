@@ -95,7 +95,7 @@ export default function Home() {
             <div className='h-full  w-full  px-5'>
               <h1 className='uppercase font-bold text-white text-4xl text-center lg:text-6xl'>Welcome to Blossoms Childcare</h1>
               <div className='text-center text-xl text-gray-100 py-5'>
-                <p>Here at Blossom’s Childcare, we provide a secure and loving home-from-home experience, where children can play, learn and blossom.We see everything from a parents point of view, from the standard of care we proudly provide, to making sure we've got your choice of tea, coffee or hot-chocolate ready for you when you drop off your most precious possession.It is important that you understand every step of your child's journey along the Early Years Foundation Stage; we share online learning journeys to record each child's daily progress, learning and achievements. </p>
+                <p>Here at Blossoms Childcare, we provide a secure and loving home-from-home experience, where children can play, learn and blossom.We see everything from a parents point of view, from the standard of care we proudly provide, to making sure we have got your choice of tea, coffee or hot-chocolate ready for you when you drop off your most precious possession. It is important that you understand every step of your childs journey along the Early Years Foundation Stage; we share online learning journeys to record each childs daily progress, learning and achievements. </p>
                 
                 <div className='grid grid-cols-1 gap-4 py-4 h-full lg:grid-cols-3'>
                   <div className='border-2 flex flex-col justify-center items-center rounded-2xl p-2 bg-white border-white text-blue-300'>
