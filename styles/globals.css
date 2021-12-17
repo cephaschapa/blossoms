@@ -1,9 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Baloo Chettan 2', cursive;
 }
 
 a {
@@ -13,4 +17,17 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.hero-section{
+  background: url('/kids-4.jpg') no-repeat center fixed;
+  background-size: cover;
+}
+.direction-section{
+  background: url('/background.jpg') no-repeat center;
+  background-size: cover;
+}
+.destination-2-section{
+  background: url('/kids.jpg') no-repeat center;
+  background-size: cover;
 }
